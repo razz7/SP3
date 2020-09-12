@@ -13,4 +13,4 @@ Dom manipulations taskes i did all except the calculator. They are in the 04_thu
 i did not do the fetch task. 
 
 
-obs I ADD a javascript api test page to the movie project i knows it's later the handin time. 
+obs I ADD a javascript api test page to the movie project. I dindt finish it in time but i got it working kinda. It works if CORS plugin is on in the browser 
