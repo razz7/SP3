@@ -1,8 +1,8 @@
 # SP3 
 # Monday and tuesday
 In the folder 01_monday you find mondays tasks both of the projects are delpyed via travis see the builds below:
-## travis-ci.org/github/razz7/travisGettingStarted
-## https://travis-ci.org/github/razz7/newCldat3
+ travis-ci.org/github/razz7/travisGettingStarted
+ https://travis-ci.org/github/razz7/newCldat3
 
 The tuesdays tests are in the 01_monday --> CI ( this is the movie project).
 # Wedensday
